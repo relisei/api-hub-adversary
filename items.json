@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nickname": "AdventureAlex",
+      "firstName": "Alex",
+      "lastName": "Johnson",
+      "picture": "url_to_picture_1",
+      "isFriend": true
+    },
+    {
+      "id": 2,
+      "nickname": "GracefulGrace",
+      "firstName": "Grace",
+      "lastName": "Smith",
+      "picture": "url_to_picture_2",
+      "isFriend": false
+    },
+    {
+      "id": 3,
+      "nickname": "TechieTom",
+      "firstName": "Tom",
+      "lastName": "Roberts",
+      "picture": "url_to_picture_3",
+      "isFriend": true
+    },
+    {
+      "id": 4,
+      "nickname": "ArtisticAnna",
+      "firstName": "Anna",
+      "lastName": "Baker",
+      "picture": "url_to_picture_4",
+      "isFriend": false
+    },
+    {
+      "id": 5,
+      "nickname": "MusicMasterMike",
+      "firstName": "Mike",
+      "lastName": "Davis",
+      "picture": "url_to_picture_5",
+      "isFriend": true
+    },
+    {
+      "id": 6,
+      "nickname": "GourmetGina",
+      "firstName": "Gina",
+      "lastName": "Martinez",
+      "picture": "url_to_picture_6",
+      "isFriend": true
+    },
+    {
+      "id": 7,
+      "nickname": "OutdoorOliver",
+      "firstName": "Oliver",
+      "lastName": "Taylor",
+      "picture": "url_to_picture_7",
+      "isFriend": false
+    },
+    {
+      "id": 8,
+      "nickname": "BookwormBella",
+      "firstName": "Bella",
+      "lastName": "Wright",
+      "picture": "url_to_picture_8",
+      "isFriend": true
+    },
+    {
+      "id": 9,
+      "nickname": "FitnessFrank",
+      "firstName": "Frank",
+      "lastName": "Miller",
+      "picture": "url_to_picture_9",
+      "isFriend": false
+    },
+    {
+      "id": 10,
+      "nickname": "TravelerTara",
+      "firstName": "Tara",
+      "lastName": "Johnson",
+      "picture": "url_to_picture_10",
+      "isFriend": true
+    }
+  ]
+}
