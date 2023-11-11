@@ -5,7 +5,7 @@
       "nickname": "AdventureAlex",
       "firstName": "Alex",
       "lastName": "Johnson",
-      "picture": "url_to_picture_1",
+      "picture": "https://i.ibb.co/pyRdq8b/Adventure-Alex.webp",
       "isFriend": true
     },
     {
@@ -13,7 +13,7 @@
       "nickname": "GracefulGrace",
       "firstName": "Grace",
       "lastName": "Smith",
-      "picture": "url_to_picture_2",
+      "picture": "https://i.ibb.co/Byy3L1N/OIG-o5-B63-g.webp",
       "isFriend": false
     },
     {
@@ -21,7 +21,7 @@
       "nickname": "TechieTom",
       "firstName": "Tom",
       "lastName": "Roberts",
-      "picture": "url_to_picture_3",
+      "picture": "https://i.ibb.co/8s2WZFV/Techie-Tom.webp",
       "isFriend": true
     },
     {
@@ -29,7 +29,7 @@
       "nickname": "ArtisticAnna",
       "firstName": "Anna",
       "lastName": "Baker",
-      "picture": "url_to_picture_4",
+      "picture": "https://i.ibb.co/f9g6tCn/Artistic-Anna.webp",
       "isFriend": false
     },
     {
@@ -37,7 +37,7 @@
       "nickname": "MusicMasterMike",
       "firstName": "Mike",
       "lastName": "Davis",
-      "picture": "url_to_picture_5",
+      "picture": "https://i.ibb.co/g4RMpgJ/Music-Master-Mike.webp",
       "isFriend": true
     },
     {
@@ -45,7 +45,7 @@
       "nickname": "GourmetGina",
       "firstName": "Gina",
       "lastName": "Martinez",
-      "picture": "url_to_picture_6",
+      "picture": "https://i.ibb.co/vwtF7Fg/Gourmet-Gina.webp",
       "isFriend": true
     },
     {
@@ -53,7 +53,7 @@
       "nickname": "OutdoorOliver",
       "firstName": "Oliver",
       "lastName": "Taylor",
-      "picture": "url_to_picture_7",
+      "picture": "https://i.ibb.co/CJyLXj4/Outdoor-Oliver.webp",
       "isFriend": false
     },
     {
@@ -61,7 +61,7 @@
       "nickname": "BookwormBella",
       "firstName": "Bella",
       "lastName": "Wright",
-      "picture": "url_to_picture_8",
+      "picture": "https://i.ibb.co/ygyb3jW/Bookworm-Bella.webp",
       "isFriend": true
     },
     {
@@ -69,7 +69,7 @@
       "nickname": "FitnessFrank",
       "firstName": "Frank",
       "lastName": "Miller",
-      "picture": "url_to_picture_9",
+      "picture": "https://i.ibb.co/cTKkf1k/OIG-bz-Zd8h-G0z-U2m-Qz.webp",
       "isFriend": false
     },
     {
@@ -77,7 +77,7 @@
       "nickname": "TravelerTara",
       "firstName": "Tara",
       "lastName": "Johnson",
-      "picture": "url_to_picture_10",
+      "picture": "https://i.ibb.co/ZxNBCLw/Graceful-Grace.webp",
       "isFriend": true
     }
   ]
